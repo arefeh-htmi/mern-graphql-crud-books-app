@@ -6,7 +6,8 @@ Books CRUD app using MERN stack and graphgl
 <a href="https://unsplash.com" >unsplash</a>
 <br/>
 <a href="https://icons8.com" >icons8</a>
-
+<br/>
+<a href="https://www.freepik.com" >freepik</a>
 
 
 <h2>Color Pallet </h2>
