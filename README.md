@@ -24,7 +24,7 @@ I've used <a href="https://colorhunt.co/palette/153879" >colorhunt</a> , <a href
 <h2>Dependencies and dev-dependencies</h2>
 
 <ol>
-<li>react-scripts</li>
+
   <li>react-scripts</li>
   <li>react-router-dom</li>
   <li>react-dom</li>
