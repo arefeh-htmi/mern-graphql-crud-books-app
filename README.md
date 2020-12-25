@@ -7,6 +7,19 @@
 <br/>
 <a href="https://icons8.com" >icons8</a>
 
+
+
+<h2>Color Pallet </h2>
+
+I've used <a href="https://colorhunt.co/palette/153879" >colorhunt</a> , <a href="https://www.color-hex.com" >color-hex</a> and this color pallet 
+
+
+
+<br/>
+
+![img3](img3.png)
+![img2](img2.png)
+![img1](img1.png)
 <h2>Dependencies and dev-dependencies</h2>
 
 <ol>
@@ -33,23 +46,3 @@
   <li>bluebird</li> 
   <li>cookie-parser</li>
 </ol>
-
-<h2>Color Pallet </h2>
-
-I've used <a href="https://colorhunt.co/palette/153879" >colorhunt</a> , <a href="https://www.color-hex.com" >color-hex</a> and this color pallet 
-<br/>
-
-- ![#ffcbcb](https://via.placeholder.com/15/ffcbcb/000000?text=+) `#ffcbcb`
-- ![#ffb5b5](https://via.placeholder.com/15/ffb5b5/000000?text=+) `#ffb5b5`
-- ![#407088](https://via.placeholder.com/15/407088/000000?text=+) `#407088`
-- ![#132743](https://via.placeholder.com/15/132743/000000?text=+) `#132743`
-
-
-
-
-
-<br/>
-
-![img3](img3.png)
-![img2](img2.png)
-![img1](img1.png)
