@@ -1,4 +1,4 @@
-# mern-graphql-crud-books-app
+# mern-graphql-books-app
 Books CRUD app using MERN stack and graphgl
 
 <h2>Image and icon Sources </h2>
